@@ -36,7 +36,7 @@ export default function App() {
         keyboardShouldPersistTaps="handled"
       >
         <View className="pt-20 px-5 min-h-[10%]">
-          <Text className="text-3xl font-bold">Today's tasks</Text>
+          <Text className="mb-4 text-3xl font-bold ">Today's tasks</Text>
 
           <View>
             {/* This is where the task will go */}
